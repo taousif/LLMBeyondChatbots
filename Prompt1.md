@@ -1,5 +1,6 @@
 ## Build a browser based Game ##
 
+```
 Create a complete Snake Game using only HTML, CSS and JavaScript.
 Requirements:
 - Smooth movement
@@ -11,3 +12,4 @@ Requirements:
 - Restart button
 
 Everything should be contained in one HTML file.
+```
