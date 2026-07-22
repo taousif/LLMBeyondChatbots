@@ -1,4 +1,6 @@
-##Ecommerce Website##
+## Ecommerce Website
+
+```
 Create a beautiful electronics shopping website.
 
 Include:
@@ -9,3 +11,4 @@ Checkout
 Orders
 
 Use Tailwind CSS.
+```
